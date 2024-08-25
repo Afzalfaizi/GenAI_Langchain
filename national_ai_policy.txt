@@ -1,0 +1,688 @@
+ 
+Draft
+National Artificial Intelligence Policy
+Government of Pakistan
+Ministry of Information Technology & Telecommunication https://moitt.gov.pk
+ 
+Acknowledgments
+The Government of Pakistan, Ministry of IT & Telecom, pays its gratitude to all the officials and consultants, particularly RSM Pakistan and GlowBug Technologies (Pvt.) Ltd., facilitators, developers, and stakeholders who rigorously and relentlessly participated in the review, drafting, harmonizing, and ratification of the National Artificial Intelligence Policy – 2022, helping the Ministry with an all-inclusive user-centric, evidence-based, forward-looking, and agile policy framework for enabling Pakistan towards a digital economy and society.
+ 
+Table of Contents
+ 
+1	Executive Summary	6
+2	Introduction and Context	7
+2.1	Why Pakistan Needs AI Policy	7
+2.2	The State of AI in Pakistan	7
+3	Vision, Scope & Objectives	8
+3.1	Vision	8
+3.2	Scope	8
+3.3	Objectives	8
+3.4	Policy Drivers and Targets	8
+3.4.1	The Drivers	8
+3.4.2	The National AI Targets	9
+4	Policy Directives	1
+4.1	1st Pillar: AI Market Enablement	1
+4.1.1	National Artificial Intelligence Fund (NAIF)	1
+4.1.2	Center of Excellence in AI & Allied Technologies (CoE-AI)	2
+4.1.3	Catalyzing Social Development through AI by National Initiatives	3
+4.1.4	Data and Computational Infrastructure	7
+4.2	2nd Pillar: Enabling AI through Awareness & Readiness	7
+4.2.1	Public Awareness of AI	7
+4.2.2	Research and Development	10
+4.2.3	Algorithms, Data Science & AI in Basic Education	10
+4.2.4	Skill Development of Marginalized Women & PWDs	11
+4.3	3rd Pillar: Building Progressive & Trusted Environment	11
+4.3.1	Regulating to Accelerate Socio-Economic Adoption	11
+4.3.2	Generative AI	13
+4.3.3	Sandboxing for AI Deployment	13
+4.3.4	Supporting International Collaboration	14
+4.4	4th Pillar: Transformation & Evolution	14
+4.4.1	Role of National IT Boards in Transformation	14
+4.4.2	Industrial Transformation	15
+4.4.3	Public/Private Sector Evolution	15
+5	Policy Implementation & Review	15
+5.1	Steering/Management Committee	15
+5.2	Working Groups	16
+5.3	Policy Implementation Cell	16
+5.4	Review Procedure & Timeline	16
+6	Definitions	17
+7	Acronyms	17
+8	Annex I – Sectoral Survey Regarding AI Adoption, Challenges and Opportunities in Pakistan	19
+8.1	Sectoral identification	19
+8.2	Survey Statistics	20
+8.3	Market Challenges	23
+3.2.1.	G1 – Awareness and Adaptation Challenges	23
+3.2.2.	G2 – Data Standardization and Accessibility	24
+3.2.3.	G3 – Computational Infrastructure Situation and Needs	24
+3.2.4.	G4 – Ethical Challenges	25
+9	References	26
+
+ 
+Foreword
+Through its continued efforts toward the early realization of the Digital Pakistan vision of the Government of Pakistan, the Ministry of IT & Telecom is committed to providing its people with timely and equal access to opportunities by stimulating a culture of innovation through an overarching developmental agenda orchestrated to embrace cutting-edge technologies such as Artificial Intelligence efficiently and responsibly.
+In this regard, the Artificial Intelligence (AI) Policy is a pivotal milestone for transforming Pakistan into a knowledge-based economy as it spells out a national strategy to establish an ecosystem necessary for AI adoption by harnessing an agile framework for addressing different aspects of unique user journeys encompassing different market horizontals and industry verticals by ensuring responsible use of AI.
+Furthermore, the policy aims to go beyond the meagre approach of adopting technology to fundamentally rethink AI adoption in the local context so that new growth areas can be identified and intervened in considering the existing job market’s relevance while empathizing with the growing population of the country. This policy stems from the “AI for good” initiative by the International Telecommunication Union and the Sustainable Development Goals set forth by the United Nations.
+Considering the disruptive nature of AI and allied technologies and how it is re-ordering the socio- economic construct of the world, we desire to live in. Therefore, it is essential to responsibly harness this opportunity while keeping the interest of a common person foremost. Therefore, to survive and thrive, Pakistan aims to revitalize its resolve toward digitalization, which will involve processing personal data through AI. To this end, the said policy coherently interlaces with the Personal Data Protection Act, Pakistan Cloud First Policy, and the Digital Pakistan Policy initiatives.
+ 
+1	Executive Summary
+Pakistan has a unique opportunity to harness digital disruption by educating an eager young population that can potentially propel the nation onto a growth trajectory to sustain our future national competitiveness and improve the lives of citizens. Artificial Intelligence (AI) represents the next frontier of technological opportunities, and it has been widely proven and understood that the collection, processing, use, and exchange of data through automated/intelligent means would drive the entire society into the next stage of its evolution which is unprecedented and requires a progressive, yet careful approach. So, after a thorough analysis of the global perspective and based on the evidence collected through more extensive consultations with the stakeholders, the Ministry of IT & Telecom has come to a much-desired conclusion that it needs to chalk out a developmental roadmap for better, faster and responsible adoption of AI in the country. For that, the policy document is put in place to reap long-term and sustainable benefits for its people.
+The policy document offers a wide range of developmental initiatives necessary for awareness and adoption, reimagining the transparent and fair use of personal data using AI and stimulating innovation through industry-academia collaborations and investments in AI-led initiatives. The National AI Policy is crafted to focus on the equitable distribution of opportunity and its responsible use, having the following defining attributes.
+•	Evidence-Based and Target Oriented
+•	User-Centric and Forward-Looking
+•	Objective and Overarching
+The AI policy further aims to augment AI and allied technologies through balanced demand and supply- side interventions, as briefly described below.
+•	Market Enablement - Establishment of research & innovation centers in AI for developing, test- bedding, deploying, and scaling AI solutions. This includes learning how to improve governance and manage the impact of AI.
+•	Progressive and Trusted Environment – Responsible use of AI to generate economic gains and improve lives. In addition, AI will raise the Government’s capability to deliver anticipatory and personalized services.
+•	Enabling AI through Awareness and Readiness - Pakistan shall increase awareness and understanding of AI technologies and their benefits; our workforce will be equipped with the necessary competencies to participate in the AI economy.
+•	Transformation & Evolution - Transformation of sectors and industries towards effective use of AI, facilitated by national IT boards through creating awareness and offering training programs through sectoral cooperation.
+ 
+2	Introduction and Context
+2.1	Why Pakistan Needs AI Policy
+The need for National AI Policy is to create a broad-based awareness of the use of AI-based platforms while keeping privacy at the forefront, upskilling human capital on AI and allied technologies, guiding investment in AI research and development, ensuring ethical and responsible use of AI, and provide a framework for addressing the challenges and risks associated with the socio-economic outfit of the country.
+The AI policy covers the following key areas, including:
+•	Investment in Research and Development Infrastructure: Pakistan should invest in research and development to build in-house AI capabilities required for application development based on local data. This investment should include funding for establishing research organizations that have a sustainable mandate of basic research, data standardization, providing support to the government for regulatory and legal interventions regarding AI, maintaining a central computational infrastructure, data storage facilities, and partnerships with universities and research institutions both domestically and internationally. This investment should also include training programs to build the necessary technical expertise. The AI policy outlines how Pakistan must collaborate with other countries to share best practices and expertise in AI.
+•	Ethical and Responsible Use: The AI policy proposed the establishment of an AI regulatory directorate that ensures the ethical and responsible use of AI. This includes ensuring that AI is not used to discriminate against individuals or groups and that its use is transparent and accountable.
+•	Job Displacement: The AI policy addresses the potential job displacement that could result from the global proliferation of AI. This includes investing in training programs to help existing and new workforce acquire the skills to adapt to changing job requirements.
+•	AI can help to promote economic growth by encouraging investment in AI research and development. This investment can lead to the creation of new jobs and industries, as well as improved productivity and efficiency.
+•	AI policy can help address social and economic challenges by improving healthcare outcomes, providing better access to education, and addressing food security challenges.
+•	AI policy can help ensure that AI's benefits are shared equitably across society. This includes addressing issues such as bias and discrimination and ensuring that the benefits of AI are not concentrated in the hands of a few.
+2.2	The State of AI in Pakistan
+Pakistan has a population of 224 million as of 2022 and is predicted to reach 338 million by 2050 [2], with a current literacy rate of around 62.3% [3]. Moreover, Pakistan is considered the fifth largest country in the world in terms of the young population; 64% of the nation is younger than 30 [4]. With such a propelling number of employable human capital, we have enormous development potential on one end and a tremendous responsibility on the other. Nevertheless, despite all the odds, Pakistan has been able to register notable efforts through public/private interventions as follows:
+•	Presidential Initiative for Artificial Intelligence & Computing (PIAIC)
+•	Center for Artificial Intelligence and Computing (CENTAIC)
+•	National Center of Artificial Intelligence (NCAI)
+•	Sino-Pak Center for Artificial Intelligence (SPCAI)
+These timely initiatives have performed well in their domains and need continuity to achieve long-term targets. To achieve the AI-accelerated socio-economic development urgently required by Pakistan and its actual impact on the GDP of the country, a national strategy for AI adoption is critical. The AI policy provides a holistic structure, by the societal challenges regarding AI adoption can be addressed by establishing the necessary ecosystem with specialized initiatives and organizational responsibilities. The policy proposes the National AI fund as a perpetual and central fund to support the proposed interventions.
+ 
+3	Vision, Scope & Objectives
+3.1	Vision
+Owing to the impact of AI globally and its local adoption and implications, the Government of Pakistan envisions:
+“To Embrace AI by appreciating Human Intelligence and stimulating a Hybrid Intelligence ecosystem for equitable, responsible, and transparent use of AI.”
+3.2	Scope
+The policy framework is envisaged to provide a complete AI-enabling ecosystem in Pakistan, covering all aspects of awareness, skill development, standardization, and ethical use.
+3.3	Objectives
+Here the strategic objectives are distributed into two societal agendas of development and responsibility to efficiently evolve the society in the age of the fourth industrial revolution:
+
+Developmental Agenda
+(Embracing AI)	Responsibility Agenda
+(Appreciating Human Intelligence)
+Training and upskilling human capital in AI at all levels to address the needs and demands of the market efficiently.
+Integrating AI into the National Curriculums at all levels is essential from a necessity, application, and use standpoint.	
+Ensure the ethical use of AI through inclusive and forward-looking guidelines.
+Increasing public awareness to facilitate the adoption of AI sustainably.	Provide an enabling platform for AI with appropriate sandbox and agile regulatory arrangements to address societal and regulatory challenges (only
+where necessary).
+To embrace research and innovation-based culture, offer fiscal/non-fiscal incentives to start-ups/SMEs investing in AI-based services/technologies.	Define data standards and invest in computational resources for the responsible use of organized datasets.
+Strengthen international collaboration with both academia and industry.	
+3.4	Policy Drivers and Targets
+The policy drivers help navigate the identified gaps and challenges by orchestrating a journey-based approach comprising four defining pillars of development and responsibility, complimented by progressive targets for effective policy implementation.
+3.4.1	The Drivers
+Through the challenges and gaps, the policy lays a fundamental framework driven through a pillar-based approach driven through the developmental journey of AI adoption and proliferation using agile and all- inclusive models incrementally. These drivers are:
+ 
+3.4.1.1	1st Pillar: Enabling AI through Awareness and Readiness
+The first pillar will focus on societal preparation in becoming increasingly aware of the potential benefits of AI, deployment requirements, and adopting measures for establishing readiness towards AI adoption. Targeted interventions achieve this in meeting the societal gaps. The interventions include awareness proliferation programs related to AI, improving the quality of R&D in AI through applied research, and further enhancing the footprint in AI through fiscal/logistical support, curriculum development, and review of existing coursework to make it more relevant to global demand and best practices. Furthermore, the upskilling of the current workforce shall be done through bootcamps and high-impact short courses using Massive Open Online Courses (MOOCs) Platforms. The initiative aims to meet the societal gaps of Awareness and Adaptation Challenges (G1).
+3.4.1.2	2nd Pillar: AI Market Enablement
+The second pillar will help organize matters related to establishing an ecosystem to facilitate the development and deployment of AI. This includes steps taken to address the identified societal challenges, including Awareness and Adaptation Challenges (G1), Data Standardization and Accessibility (G2), and Computational Needs (G3).
+3.4.1.3	3rd Pillar: Building Progressive & Trusted Environment
+The third pillar focuses on the interventions necessary for building a progressive and trusted environment where the personal data of citizens and the data of organizations are protected. This section addresses Awareness and Adaptation Challenges (G1) and Ethical Challenges (G4) to ensure the safe and responsible use of AI and associated technologies.
+3.4.1.4	4th Pillar: Transformation & Evolution
+This pillar focuses on developing roadmaps for each sector of society, including governance, so the necessary evolution toward AI adoption can be achieved. During the process, several interventions are highlighted to facilitate this transformation, including industrial transformation and sandboxing. In addition, this driver will assist us in addressing awareness and adaptation challenges (G1) and Data Standardization and Accessibility (G2).
+3.4.2	The National AI Targets
+Navigating through the policy drivers, the National AI Targets reflect the needs and concerns which will be addressed through subsequent policy interventions with a definite yet simple approach presenting a bandwagon of tangible opportunities having the following attributes:
+a.	The proposed targets are highly focused and inclusive.
+b.	The said targets are simple, realistic, and achievable.
+c.	The targets offer a reasonable amount of time for its initiation and achieving desired results with impact registration.
+d.	The offered targets can be reviewed quantifiably.
+e.	As explained later in the document, special consideration is given to agility for implementing different programs, so a holistic approach toward AI adoption could be exercised.
+f.	The targets are based on the international developmental Agenda for AI and best practices, which will allow recognition of Pakistan on the global front.
+ 
+ 
+
+
+S.No.	Pillar	Target	Description	Current State	Desired State	Timeline
+		
+
+
+Target-1	Public Awareness of AI & Allied Technologies	The level of awareness regarding AI and its potential applications for socio-economic development by addressing societal challenges is considerably low.	A comprehensive program regarding public awareness of AI & allied technologies shall be undertaken at the national level to achieve a widespread awareness of 90% of the public with internet access. This program under CoE- AI shall undertake curriculum revision at all levels of education, training of the existing workforce, and specialized programs for marginalized women and PWDs.	By 2026
+
+
+
+
+
+1.	
+
+
+Enabling AI through Awareness &
+Readiness		Developing new skilled human capital and upskilling the existing workforce	Less than 10% of the current workforce working in computing and IT is skilled in AI and Allied Technologies [Survey conducted by MoITT in 2022].	The aim is to train 1 million new and existing resources IT graduates in high-impact applied skills in AI and Allied Technologies by using sustainable models for imparting education. To achieve this, at least 10,000 new trainers will be required to impart high-impact AI & Allied Technologies education.	By 2027
+					Goal: 1M trained in AI, 10k new trainers	
+		Target-2	Opportunities for on-job training for applied skillset	Currently, there are limited programs for
+on-job training of IT professionals offered by the government of Pakistan.	A program regarding on-job training needs to be initiated to offer incentives for the on-job training, especially for IT-certified/graduate professionals annually. The goal is to equip at least 60% of IT graduates specializing in the latest technologies annually.	By 2025
+			Higher Education Scholarships	Currently, HEC, in partnership with friendly countries, offers scholarships to students for post-graduate and doctoral studies locally and abroad with a limited focus on AI.	A separate fund shall increase the scholarships in AI and allied technologies by 30% of the total scholarships offered annually by HEC in partnership with industry and international partners.	By 2026
+ 
+ 
+
+			Awareness and upskilling in the public sector	Currently, no programs/initiatives focus on the awareness and upskilling of civil servants and the public sector in AI and its applications.	To develop an awareness of applied AI for all Grade 12 to Grade 22 employees, including technocrats and other allied staff working in different departments and institutions at federal and provincial levels.	By 2026
+					Introduce a skill development drive for public sector employees in AI and Allied Technologies with a target to train at least 70% of existing employees working in the IT and AI potential sectors and 100% of new inductees.	
+			R&D initiatives in AI and allied technologies	Currently, there is limited funding for AI/ML/DL-led R&D initiatives in academia and the industry through available Funding Channels organized by the public sector.	This approach shall be bifurcated. Firstly, an R&D focus targeting national AI initiatives with short- and long-term tangible deliverables shall be initiated. Secondly, at least 1,000 AI-led R&D initiatives shall be funded in academia and the private sector via fiscal and non-fiscal support.	By 2026
+		
+Target-3	Applied Research/Thesis supports AI and allied technologies.	Very limited linkage between journals, research/white papers being published in AI with international research institutions or any global publishers.	All research students undertaking applied research in AI and Allied technologies can apply for funding support, publication fee, and travel grants based on the competitive criteria to support publishing in high-impact factor journals and conferences to achieve global recognition.	By 2025
+YoY growth of 30% till
+2030.
+			Intellectual Property Registration for AI- led Products & Solutions from Pakistan	Currently, limited Patents have been registered from Pakistan concerning AI and allied technologies-led products/solutions.	To help file over 2,000 patents in AI-led products and solutions from Pakistan.	By 2026
+ 
+ 
+
+		
+
+
+
+
+
+Target-4	Algorithms, Data Science, and AI in Basic Education	At present, AI is only limited to undergraduate and post-graduate programs related to ICT. No other curriculum or program offers Data Science and AI as a primary curriculum object.	To formulate and inculcate Data Science and AI as part of STEM education in schools and colleges, undergraduate and postgraduate programs in all disciplines by imparting basic skills education in the given subject(s).	By 2025
+			Special Program in AI and Data Sciences for the marginalized section of Women and PWDs.	Programs such as Digiskills.pk cater courses in AI Data Science at limited levels, Data Science at limited levels, or.	To develop special curriculums and launch programs and specializations for basic and advanced technologies in AI and Data Science while incorporating PWDs and marginalized Women through inclusion in Digiskills.pk Program and other such initiatives in the provinces.	By 2024
+			National AI Fund	The Ignite Technology Fund is mandated to	To establish National AI Fund for supporting	By 2023
+				broadly support R&D Initiatives,	Hi-Tech initiatives in AI and Allied	
+				Entrepreneurship, and Skill Development in	Technologies nationwide as a spin-off of	
+		Target-5		ICTs.	Ignite Technology Fund.	
+				There is no special provision for Hi-Tech,		
+				especially AI and allied Technologies, at		
+				present.		
+
+2.	AI Market Enablement		Center of Excellence in AI & Allied Technologies	National Centers for AI are playing an essential role in applied R&D in AI at leading academic institutions for higher education in Karachi, Lahore, and Islamabad.	To develop a Center of Excellence in AI (CoE- AI) in Karachi, Lahore, and Islamabad with Auxiliary AI Centers in Peshawar, Quetta, Multan, Faisalabad, and Gilgit for harnessing AI and Allied Technologies for:
+•	Providing access to high-tech compute infrastructure, labs & testbeds.
+•	Supporting AI at the grassroots.
+•	Supporting Entrepreneurs and Start-ups working on AI-led products/solutions.	By 2026 –
+CoE-AI
+By 2028 CoE-AI
+				Sino-Pak Center for Artificial Intelligence at		Aux-
+		Target-6		PAF-IAST, Haripur, is also making tangible		Centers
+				efforts to impart higher education and		
+				support Research & Development in AI and		
+				Allied Technologies.		
+				However, there are no regional/central hubs		
+				for AI and Allied Technologies offering		
+ 
+ 
+
+				across-the-board opportunities for high-	•	Developing nationwide civic and social initiatives using AI.
+•	Assisting the regulator in organizing sandbox and other regulatory measures for the responsible use of AI.	
+				impact skill development, applied R&D,		
+				computational resources, test beds, and		
+				sandboxes in AI		
+			Compute	Currently, only two HCI facilities are	To develop HCI infrastructure at all the CoEs	By 2025
+			Infrastructure along	purpose-built for AI in the country.	and Auxiliary Centers Nationwide with	at CoEs
+			with High Tech		distributed access and connected to global AI	
+		Target-7	Labs, Tools, and		infra.	
+			Testbeds for AI &			By 2028
+			Allied Technologies			at Aux
+						Centers
+			Special National	Other than the COVID-19 Track and Trace	To support at least 50 initiatives for civic and	By 2026
+			Scale Applied	System developed by NITB, no other	social support projects using AI and Allied	
+		Target-8	Projects in AI	platforms extensively use AI-led models for	Technologies as the underlying technology.	
+			concerning Civic	civic and social applications.		
+			and Social issues			
+
+
+
+
+
+3.	
+
+
+
+Building a Progressive & Trusted Environment	
+
+Target-9	Proliferating AI and Allied Technologies Responsibly	The National Commission for Data Protection under Personal Data Protection Act is yet to be established.
+There is no provision for regulating AI at the moment. However, the NCPDP closely relates in terms of Data Protection.	Establishing an AI Directorate under NCPDP for harnessing AI responsibly through appropriate and need-based regulations	By 2024
+		
+Target- 10	Agile Regulatory Ecosystem	SECP offers a regulatory sandbox for different use cases, effectively using AI and Allied Technologies for Algorithmic Trading, Robotics, and other ML/DL applications in the prescribed area of focus.	To establish a Regulatory sandbox for AI-led initiatives with focused automation on data controlling and processing using unique AI models for different academic and commercial applications.	By 2025
+ 
+ 
+
+				An Integrated Regulatory Sandbox for different research-based platforms and commercial applications focusing on AI-led applications is yet to be organized.		
+		
+
+
+
+
+
+Target- 11	Harnessing AI through Global Best Practices	Sino-Pak Center for AI and other collaborations are organized at the academic level in different sectors.
+There are no documented commercial partnerships for AI at the bilateral/multilateral level in place.	To engage in partnerships with multilateral AI programs and bilateral AI development and regulatory platforms to adopt international best practices in the adoption and proliferation of AI.
+To organize partnerships with at least five multilateral institutions to help countries and governments responsibly embrace AI.
+To organize bilateral AI partnerships with leading AI adopters globally by having at least three partnerships in Asia Pacific Region, 3 in the EU, 2 in African Union, and 3 in North America on a G2G basis.	By 2025
+		
+
+
+Target- 12	Access to Open Groups and Trained Models	Currently, the private sector is engaged with Open-AI, Open-Source Foundation (OSFP) platform, and other organizations with no institutional support for such individuals or organizations to set up and showcase their applied skillset and research work.	To partner with different Open-AI fora and allow industry and academia to engage with such establishments using the CoE-AI platform by offering different incentives for adopting best practices and making appropriate contributions.
+The target is to contribute 50 new AI models to such platforms annually.	By 2024
+
+4.	
+Transformation & Evolution	
+Target- 13	Transforming the Public Sector through AI & Allied Technologies	The National/Provincial IT Boards and other National Institutions, such as PTV, SECP, FBR, Monetary Institutions, etc., have limited or no local establishments for
+controlling and/or processing large data	Establish a National/Provincial Data Repository(s) to access different datasets using Sandboxes for public and private sector applications.	By 2024
+ 
+ 
+
+				lakes using AI. Only NADRA is equipped to organize and manage data using trained AI models at scale.	To upgrade existing Data Centers Infrastructure to HCI and organize access to such data lakes via sandbox.	
+		
+
+
+
+Target- 14	Enabling Academia through AI & Allied Technologies	There is no central hub for academia to use resources on a shared model for practicing/training developed AI models and applying them in a controlled environment to learn the outcome and improve them for actualizing the application.
+Currently, most academic institutions are organizing their work through public cloud infra and taking stock of pre-trained models to further their research.	To provide access to different datasets and computational resources to at least 150 academic institutions from the available HCI infrastructure at CoE-AI.
+To help academia register, apply, and train 150 unique models annually.	By 2025
+		
+
+Target- 15	Sectorial Support via AI & Allied Technologies	Due to a lack of local data and other computing resources, almost 100% of the industry uses AI infra from Opensource platforms and/or public cloud-based AI products for integration into their products and services.	To provide access to sectorial data and infra at CoE-AI for PoCs, Commercial Pilots, and other testing/training of AI models using a hybrid/multi-cloud environment to the industry. The industry may register at least 100 commercial models with IP registration support annually.	By 2026
+ 
+4	Policy Directives
+The policy directives are minimalistic, focusing on resolving issues and achieving targets set for stimulating growth in AI across the board. Empathizing with the common person's journey for different aspects associated with their socio-economic development and well-being in the current technological disruption is driven through the following developmental pillars.
+4.1	1st Pillar: AI Market Enablement
+4.1.1	National Artificial Intelligence Fund (NAIF)
+Given the evidence regarding the state of AI in Pakistan, the projected global outlook of AI in terms of its use and market size, the impact of AI on the local ecosystem, and claiming its demographic share through responsible use of data, the Ministry of IT & Telecom through its underutilized resources and funds aims to establish a National AI Fund with following objectives.
+I.	In accordance with the stipulations of clauses 33D (II) & (III) of the Telecommunication Re- organization Act 1996 (amended 2006), the Ministry of IT & Telecom, while exercising its right to issue policy directives, shall direct the Research & Development Fund (Ignite – Technology Fund) to allocate a part (not less than 30%) of its funds to NAIF on a perpetual basis for the research and development of AI and allied technologies.
+II.	The Ministry of IT & Telecom shall notify the establishment of an autonomous high-tech National AI Fund (NAIF) organization within six (6) months from the promulgation of this policy.
+III.	The NAIF shall undertake all the responsibilities and implement guidelines as stipulated in this policy or as directed by the Federal Government of Pakistan via the Ministry of IT & Telecom from time to time.
+IV.	The Ministry of IT & Telecom shall allocate a budget through PSDP funds as Initial Working Capital to support the initiative expeditiously in the first two (2) years.
+V.	Once the organization is formed and Funds are allocated and transferred into NAIF from the National ICT R&D Fund, all the ongoing and subsequent programs shall be organized through the perpetual Fund.
+VI.	The fund shall be administered through an independent Board of Directors (not more than 11 members) to ensure seamless operations and transparency.
+VII.	The BoD shall comprise members from industry and academia with relevant techno-commercial backgrounds in high-tech (especially AI & allied technologies development), representatives of Ignite R&D Fund BoD, and the government (ex-officio). It shall be chaired by Secretary/Member IT.
+VIII.	NAIF shall be able to raise funds through international grants/aids from bilateral and multilateral platforms, co-invest with local/international hi-tech organizations, provide a bridge between global VCs/CVCs, and incubate R&D initiatives and startups for early commercialization and sustainability.
+IX.	The funds allocated and disbursed to NAIF shall not be lapsable upon completion of a financial year. Part of NAIF's fund shall only be reimbursable by Ignite – Technology Fund on a year-on-year basis.
+X.	NAIF administration shall ensure that the funds are utilized per the stipulations of this policy and within the defined mandate of the Research & Development Fund (Ignite – Technology Fund).
+ 
+XI.	The Fund shall function under a Chief Executive Officer hired from the industry on open merit. The term, experience, expertise, remunerations, perks, and privileges will be formulated by NAIF (BoD) through a reputable local/international Human Resource Consultant.
+XII.	The CEO shall be responsible for implementing the directions provided in this policy within the timelines offered in the targets with utmost transparency and accountability.
+XIII.	The NAIF Fund shall be audited annually through a reputable (AA Rating) auditing firm, and the report shall be made public.
+4.1.2	Center of Excellence in AI & Allied Technologies (CoE-AI)
+Attributing to the evidence and the global best practices, the Government of Pakistan aims to organize a nationwide network of Centers of Excellence for the expeditious and responsible development of AI and allied technologies.
+The CoE-AI shall be established on the following foundational principles:
+I.	The CoE-AI shall be demand-driven and focuses on a sectorial approach while organizing its strategic vision and principles.
+II.	The institution shall be directly funded through the National AI Fund and be established in a two- tiered model.
+III.	The first tier of the organization shall be a fully-fledged Center of Excellence and be established in the three major cities of Pakistan, i.e., Islamabad, Karachi, and Lahore. At the same time, the second tier shall comprise developing or auxiliary centers in other major cities of the country, such as Peshawar, Quetta, Faisalabad, and Hyderabad.
+IV.	The centers shall prioritize their area of focus based on the industry(s)/sector(s) surrounding them in their jurisdiction; however, there shall be no limit to choosing any sector/industry for developmental initiatives.
+V.	These centers shall be organized in public-private partnerships and preferably in commercial vicinity to ensure active participation of the industry for cultivating demand-driven research, innovation, and commercialization prospects.
+VI.	The term of such PPP where the funding is organized through the National AI Fund shall not be more than five (5) years which may be extended for another 2 years if required.
+VII.	The CoE-AI and auxiliary centers shall evolve into perpetual operations well before the end of the term. They shall be permitted to generate income for meeting operational expenses by rendering their services and resources for prescribed functions.
+VIII.	The CoE-AI and auxiliary centers shall operate on a “zero equity” model. They shall only be able to charge a minimum fee for different activities facilitated and services delivered by these centers.
+IX.	The CoEs and the auxiliary centers shall be mandated to perform the following functions:
+a.	Facilitate demand-driven R&D in AI and allied technologies.
+b.	Incubate and accelerate startups and help them through mentoring, raising funds, facilitating collaborations with public Cloud Services Providers, engagement/integration with data sources, and other commercialization opportunities.
+c.	Curriculum development and management in AI and allied technologies at primary, secondary, and higher education levels for imparting education at the grass-root level in collaboration with the National/Provincial Board(s)/Directorate(s).
+d.	Short-term, high-impact skill development and assessment in AI and allied technologies in partnership with local/international institution(s).
+ 
+e.	Offer avenues for hands-on training and internships in public/private sector institutions for certified and graduated individuals.
+f.	Support research and academic theses work for high-tech initiatives in conjunction with HEC/HEDs.
+g.	Assist AI Regulator in Data Standardization and Management.
+h.	Facilitate regulator(s) with sectorial sandboxes for AI and allied technologies.
+i.	Offer digital/physical computing infrastructure through local and international partnerships.
+X.	The performance of these centers shall be steered through appointed Monitoring and Evaluation experts with quarterly/annual reports on the impact and necessary course correction. These reports shall be presented to NAIF BoD for review and decision-making.
+4.1.3	Catalyzing Social Development through AI by National Initiatives
+From a global perspective of service/technology adoption, it is witnessed that the social sector usually misses out on the early adoption of cutting-edge technologies such as AI due to its magnitude, lack of coherence, and service complexities. On the contrary, the sectorial approach is swift but in siloes, and therefore, desired performance targets are challenging. The Government of Pakistan is aware of data orchestration and management issues in the social sector. Due to these challenges, a National developmental drive via focused national projects is necessitated through this initiative by directly investing in a handful of priority areas for improving service delivery. Following are the National AI Initiatives that shall be undertaken to bring AI applications into the mainstream to achieve socio-economic deliverables and ensure sustainable outcomes.
+4.1.3.1	Data Standardization and Aggregation for Servicification
+The National and Provincial governments possess heterogeneous datasets through various verifiable and unverifiable sources and require orchestration bottom-up for secure and transparent use. Suppose the social data is standardized and made available by the private sector for public service provisioning in a structured environment. In that case, it can help reduce time to service due to process cluttering and ensure seamless application of AI and allied technologies in an integrated manner. Immediate actions required in this regard are:
+I.	The CoE-AI shall organize a common and sectoral data collection and processing mechanism for unstructured, semi-structured, and structured datasets for the data available in the public sector and accessible through market regulators for the private sector.
+II.	CoE-AI shall undertake the data standardization in the identified priority social sectors under a Common Operating Environment (COE) such as Healthcare, Legal, Public Facilitation Services, Education, Food Security, and essential Utilities (electricity, gas, drinking water, water, sewage, and cleaning services).
+III.	These standards shall be implemented via National/Provincial IT Boards across the country by standardizing data collection and processing under different Management Information Systems operating in various departments/institutions. Furthermore, the available data should be available to these National/Provincial IT Boards to develop a standard data exchange system.
+IV.	In another scenario, where there is yet to be digitized for seamless collection, especially in the identified social sectors, the National/Provincial IT Boards in support of CoE-AI, while exercising their mandate, shall assist such National/Provincial institutions in digitizing data on the given standards for early alignment.
+V.	Under the Cloud First Policy of the Government of Pakistan, although the end-user department shall remain the custodian of acquired data, a copy of such data public data must be hosted on the National Telecom Corporation (NTC) cloud infrastructure nationwide. Moreover,
+ 
+National/Provincial IT Boards shall act as controllers and processors of such data while assisting the concerned department(s) in secure and effective service provisioning.
+VI.	All such data shall be well backed up on the industry’s best practices and made available in a controlled environment to CoE-AI to access and use to develop different AI algorithms for data/system integrations and intelligent service offerings through prescribed processes with incremental value addition.
+VII.	Such AI algorithms shall be made available to the private sector entities for sectorial sandboxing and subsequent service provisioning while always remaining compliant with the sandbox and available for system/service audit.
+VIII.	Smart city-based projects are already in the deployment phase in several cities in Pakistan. CoE- AI shall support in indigenization of computer vision technology by standardization targeting high accuracy of person and object detection. Computer Vision-based surveillance application poses significant potential to contribute to the safety of citizens. Therefore, CoE-AI shall accelerate the technology rollout to even smaller cities in Pakistan.
+All the identified institutions in clause vide 4.1.3.1 (I-VIII) above are hereby directed based on constitutional stipulations to work coherently to solve citizens' problems and always offer data to CoE-AI for AI-based service and analytical transformation.
+4.1.3.2	National Health Services Transformation using AI
+This program aims to help prevent and better manage chronic diseases such as diabetes, high blood pressure, and high cholesterol, to reduce the risk of complications like heart disease, stroke, and kidney failure. Many Pakistanis have chronic diseases such as diabetes, hypertension, and high blood cholesterol. They may be unaware of these conditions as the symptoms may not be noticeable early on. However, these diseases can lead to severe complications such as heart attack, stroke, kidney failure, and even death if not well controlled. Similarly, one of the biggest challenges in AI proliferation in the healthcare sector is the digitization of a massive volume of data available in hospitals and health institutes in hardcopies. However, even if the data is digitized in some institutes and hospitals, it is not standardized, and that hinders the accessibility of data and eventual processing.
+I.	CoE-AI shall support the Ministry of National Health Services Regulation and Coordination in better controlling chronic diseases such as diabetes, hypertension, and high blood cholesterol. CoE-AI shall develop guidelines for healthcare providers to become more productive and help patients control chronic disease conditions using the latest AI technology.
+II.	AI can analyze clinical data, medical images, health behaviors, and genomic data to create a customized individual risk score. This score can help individuals take appropriate preventive measures and receive earlier and more targeted interventions from their care teams. Patients at higher risk of complications can be identified earlier and provided with more intensive management and monitoring in the primary care setting to reduce the likelihood of medical complications. CoE-AI shall establish working groups with the Ministry of National Health Services Regulation and Coordination to establish the framework of medical data standardization along with the relevant organizations.
+III.	AI can support primary care doctors and care teams in developing personalized care plans considering a patient’s risk profile. As each care team may look after many patients, AI can also assist in monitoring the progress and alert care teams to patients whose progress shows cause for concern to take timely action. CoE-AI shall actively develop and support such initiatives.
+IV.	AI can make it easier for patients to self-manage their conditions. For example, patients can use AI to monitor their health status and receive timely reminders to eat healthily, increase physical
+ 
+activity, take medication, and report for check-ups. As a result, citizens will enjoy improved health outcomes and be empowered to better self-manage chronic diseases. CoE-AI shall support the indigenization of AI products for personal healthcare.
+V.	CoE-AI shall undertake the digitalization of medical data and its management. It would help
+maintain patients’ histories, which can be invaluable in precision medicine and R&D.
+4.1.3.3	Intelligent Learning and Assessment using AI
+Every individual in society has a different capacity to comprehend and retain new information and level of skill in a particular trade. Also, they have different aptitudes and learning needs. Therefore, teachers cannot personalize every individual’s learning experience, especially in the subjects where a particular skill is to be taught. The following points discuss the prospects of AI applications:
+I.	CoE-AI shall develop a comprehensive program to provide a personalized learning and assessment mechanism by imparting AI-based adaptive skill assessment and training based on a modern curriculum. All these activities shall be organized in public-private partnerships. The program shall be managed through existing institutions, while CoE-AI shall only offer guidelines based on market needs and the latest technological advancements through its team of experts from the industry and academia.
+II.	Initially, the program shall be launched on a pilot basis in all the public institutions in the Federal Capital; however, upon the program's outcomes and with necessary pivots and iterations, the program shall be spread nationwide, ensuring authenticity and transparency of the trained resources.
+4.1.3.4	National IoT Data Cluster
+The main challenge for the successful implementation of IoT Cloud-based services is the availability of data in digital form and the standardization of the data. Unfortunately, Pakistan’s government and public organizations are sitting on vast amounts of data that have yet to be digitalized and then standardized so that it can be used in predictive analytics, Machine Learning/Deep Learning, and other technological uses. The following points discuss the prospects of AI applications:
+I.	CoE-AI shall establish IoT cloud-based services at subsidized rates. It will offer a faster learning experience and support for academia.
+II.	CoE-AI shall promote IoT-based applications. Improve the quality of Cloud and IoT-based technologies and will provide state-of-the-art facilities for predictive analytics and the generation of insights for various industries.
+III.	The initiative shall invite local and international companies to provide IoT-based Cloud services on competitive grounds.
+4.1.3.5	Agriculture Supply Chain Optimization
+The biggest challenge in the agricultural sector regarding supply chain optimization is data digitization and standardization. Accessibility is another challenge that can only be addressed after digitization and standardization of available data. Therefore, to fuel Big Data Analytics, vital for any supply chain management and inventory management systems to be provided with standardized data. The following points discuss the prospects of AI applications:
+I.	The initiative under CoE-AI shall provide predictive analytics for streamlining the supply and demand of the agricultural supply chain, which will assist in streamlining supply and demand mechanisms through predictive analytics. In addition, it will help in reducing wastage by optimizing the inventory management system.
+II.	It will establish weather prediction systems to assist farmers in making informed decisions based on weather predictions about the cultivation and harvest of crops.
+ 
+III.	The program shall employ IoTs and sensor technology for soil monitoring systems.
+4.1.3.6	E-Khidmat Centers 2.0
+Public services are high-volume and resource-intensive, including varied domains such as healthcare, education, sanitation, energy, security, and other government services. Delayed or substandard services provided to the public are common complaints shared by the public over time. Such delays are counterproductive to the smooth running of daily life in cities. The following points discuss the prospects of AI applications:
+I.	CoE-AI shall undertake the development of a smart citizen portal to streamline the delivery of municipal services that shall provide better customer service quality.
+II.	Smart reporting of routine issues the citizens face assists government departments in becoming more efficient.
+III.	Centralized service delivery shall automate the regular paperwork and reduce the employee burden and associated expenses. It will also lead to the digitalization of public records.
+IV.	Chatbots will provide citizens with a quick response mechanism and improve the quality of the services.
+4.1.3.7	Weather Prediction and Analysis using AI
+Availability of data and its standardization is the fundamental issue that may hinder the utilization of centralized weather and solar irradiance prediction for better weather predictions. The following points discuss the prospects of AI applications:
+I.	Division of the geographic span of the country into regions based on similar microclimates and training machine learning models for accurate prediction. This shall help prepare against calamities and agricultural operations. CoE-AI shall undertake this initiative with the Ministry of Climate Change and the Pakistan Meteorological Department.
+II.	This program shall provide the facility as a web service hosted on a local cloud at the national level so that it can be used to boost renewable energy solutions and assist national energy management companies in their operations.
+4.1.3.8	Intelligent Communications Systems (Road/Rail/Air)
+Mobility is a significant challenge in Pakistan and impacts all the sectors contributing to the GDP. AI can be one of the essential tools to facilitate passenger mobility, revenue management, traffic planning, and management and transport policy. CoE-AI shall develop a program to make the best use of the following prospects of AI applications:
+I.	Predicting commuters’ behavior at micro-market levels to optimize the availability of transportation and maximize revenue growth.
+II.	Use AI to assess the affordability and accessibility of commuters to provide mobility services.
+III.	Assess the future demographics of the society to plan the resources timely and assist in developing strategies and programs to help the government achieve social, economic, and environmental objectives using Railways.
+IV.	Assess the rehabilitation and construction of major bridges with preventive maintenance applications.
+V.	AI-based platforms can assist the aviation industry in flight management by receiving real-time data from multiple sensors and external sources to optimize flight paths. This will help the pilots and dispatchers make informed decisions during the flight concerning optimal route choices, reduce delays due to bad weather conditions and turbulence, etc.
+ 
+AI can play a critical role in reducing road accidents by analyzing the crash data available, providing insights to avert collisions, and enhancing the response after the accidents. Besides autonomous cars that are now a reality, AI applications fuel lane-keeping systems, emergency brakes, and auto-parking systems.
+4.1.4	Data and Computational Infrastructure
+This initiative includes standardizing the data of State-Owned Enterprises (SoEs), Boards, and Civil Authorities for applying artificial Intelligence based Algorithms ensuring seamless service provisioning and analytics. The AI Directorate and CoE-AI, through this policy intervention, are tasked to carry out the following functions;
+I.	In consultation with stakeholders, the AI Regulatory Directorate (ARD) shall direct identified public sector entities and Authorities to standardize their data for efficient and secure use.
+II.	Using a sandbox-based licensing approach, such data shall then be made available for processing to CoE-AI for research, analysis and servicification through public and/or private entities.
+III.	CoE-AI shall provide the necessary infrastructure and partnerships with international AI platforms for secure and monitored public data processing by assisting ARD with essential insights.
+IV.	Entities offered access to public data for research, analysis, and servicification shall be subject to the scrutiny of service/technology to ensure transparency and sustainability in a controlled environment.
+V.	The CoE-AI shall procure and utilize existing computational resources for data controlling and processing and shall also be able to develop partnerships with local/international AI entities, which are beneficial for realizing definite objectives for improving the National Infrastructure for AI.
+VI.	Local Startups/SMEs and Enterprises shall be allowed to use such infrastructure, data, and other resources in light of the directives of ARD.
+VII.	Security protocols may be defined to secure public data by pseudonymization before commissioning the AI market cloud on a national scale to ensure a safe and secure data-sharing ecosystem.
+VIII.	Policies will be formulated to maintain data standards based on the needs of industry and academia. ARD will be responsible for arranging and maintaining the data standards. The authorities will process the data requests from the various sectors. Structured, unique quality assurance and control mechanisms will be followed to ensure data quality. Certified and benchmarked processes can be added internally, guiding a commitment to quality.
+4.2	2nd Pillar: Enabling AI through Awareness & Readiness
+4.2.1	Public Awareness of AI
+For the effective adoption of AI, its awareness must be raised at the grass root level, which may allow a user to assess the necessity of data sharing and improve the processing and exchange by themselves. Furthermore, it would help the market and the government seek only necessary requests and permission to access different data types. This can be achieved through a nationwide awareness program built around different needs and applications for different user types. Awareness programs for creating general awareness for society about AI and allied technologies are imperative if we want a successful proliferation of AI at the grass-root level.
+I.	To empower society to make knowledge-based decisions for personal data sharing and a basic understanding of technologies such as AI, the Ministry of IT & Telecom shall devise a National Awareness Program for Personal AI adaptation.
+ 
+II.	Ministry of IT & Telecom may engage the Ministry of Information and Broadcasting and allied department(s), the PTA and licensees, and other relevant National/Provincial institutions to ensure maximum outreach of the program through print, broadcast, social media, and the internet.
+III.	Ministry of IT & Telecom, through the CoE-AI, shall orchestrate important messages/content such as technical writeups, breach and implication scenarios, preventive and remedial measures, and any other details necessary for informing/educating the citizens.
+IV.	The content delivery shall be organized in all possible forms and means, such as audible/viewable and readable short messages/stories to be proliferated in national and regional languages.
+V.	While developing the content, special attention must be given to the silver segment of society, the marginalized section of women and Persons with Disabilities (PWDs).
+VI.	Local/international private sector entities offering AI-led tools and services for data controlling and processing shall be provided with necessary instructions/regulations concerning data orchestration by the AI Directorate functioning under NCPDP.
+VII.	The program shall be closely monitored and evaluated quarterly to assess its impact. An annual report shall be published by the Ministry of IT & Telecom and/or AI Directorate until the achievement of requisite targets.
+VIII.	CoE-AI shall devise a national initiative for explainable AI increasing the public's confidence in AI- based services and solutions to improve societal acceptance and modernization.
+The program shall continue to prevail beyond target achievement through sustainable partnerships for continued inclusivity of the upcoming generation’s workforce Readiness.
+Like all other nations, one of the biggest challenges being faced by Pakistan towards cutting-edge technologies is its over-arching nature which does not limit to any one faculty, industry vertical, or even sector. This calls for a structured approach towards enabling local professionals and undertraining youth to cope with technological advancements in a tiered manner. Some necessary actions which are required for societal transformation are:
+I.	Training & Upskilling Workforce
+a.	The Center of Excellence in AI (CoE-AI) shall organize a nationwide high-impact skill development program in collaboration with Virtual University, NAVTTC, and other private sector partners of local and international nature for training and upskilling youth and young professionals in AI and allied technologies using hybrid learning mechanisms (online and onsite).
+b.	The program shall be based on the latest coursework and best practices, offer the latest tools and lab facilities, and access to global AI resources and infrastructure for imparting the best-in-class applied skillset.
+c.	The program shall ensure maximum inclusivity offering easy access to all and with a special provision for young women and PWDs.
+d.	The program shall account for imparting 200,000 pieces of training supported through globally recognized certification annually for the next five years to ensure that it provides for at least 10% of the global workforce for AI and allied technologies for claiming its equitable share.
+e.	A “Train the Trainer” stream through special bootcamps shall also be organized for the sustainable
+execution of the program.
+f.	10,000 trainers shall be trained to impart high-impact education to youth in the next three years.
+II.	Internships & On job Training in AI and Allied Technologies
+ 
+a.	The Ministry of IT & Telecom, through CoE-AI, shall organize a “National High-Tech Internship Placement Program” for offering stipend based 3 to 6 months internships in collaboration with the private sector locally and internationally.
+b.	The internship program shall be organized through a definite scope and desirable targets, which a professional and the employer organization shall be able to achieve through such an induction.
+c.	The program shall get the young professional a certificate which shall be subject to showcasing skillsets they were able to develop during their internship course. In this regard, an online test for each cohort by CoE-AI at the end of each term shall be conducted.
+d.	With the help of this program, at least 20,000 internships shall be offered annually, and the minimum qualification criteria for this program shall be a certificate in AI and allied technologies from a reputable educational institution locally or internationally (online/onsite) for more extensive inclusion.
+e.	The program shall continue a perpetual model with contributions from the public and private sectors to address the demand and supply challenges coherently.
+III.	Higher Education Scholarships & Financing Program
+a.	The CoE-AI, in collaboration with the Higher Education Commission (HEC) and the private sector, shall organize a “High-Tech Scholarship & Financing Program” for postgraduate and doctoral programs in AI and ailed technologies.
+b.	The program shall annually offer scholarships to 3,000 deserving candidates from all over the country on open merit.
+c.	A special quota of 500 seats on top of open merit seats shall be allocated to women and 100 seats for PWDs.
+d.	An annual review shall be carried out to gauge the impact and the need for more scholarships in the identified fields related to high-tech.
+e.	As a baseline, an increment of 5% for scholarships may be considered for accommodating more and more deserving students through scholarships on an annual basis.
+f.	As part of the program, scheduled financial institutions shall be encouraged to offer interest-free financing for higher education in high-tech comprising high-impact training and certification, diplomas, undergraduate, postgraduate, and doctoral programs with a minimum of 15,000 loans to be imparted to deserving candidates on an annual basis.
+g.	In this regard, the CoE-AI, HEC, and State Bank of Pakistan (SBP) shall devise an eligibility criterion for applying a high-tech education financing program for deserving candidates with a special provision for women and PWDs.
+h.	The criteria shall be implemented through public/private financial institutions as prescribed by SBP, and CoE-AI and HEC shall offset the interest on these loans.
+i.	The program shall be organized on a continuous basis and be funded by CoE-AI, HEC, the private sector, international donors, and financial institutions equitably, considering the domestic/global demand.
+IV.	Public Sector Awareness & Upskilling
+a.	The CoE-AI shall formulate a curriculum to increase public servants' awareness of Personal Data Protection and AI. The curriculum shall sensitize the target audience on how AI can impact decision-making and why access to data should be offered to the private sector and academia to improve productivity and user experience concerning public services through behavioral and predictive analytics.
+ 
+b.		The curriculum shall be organized in consultation with the Establishment Division for inclusion in the coursework of the public servants and implementation at different levels.
+c.	100% of public servants shall gain awareness and knowledge on personal data protection and AI by 2025 to effectively implement the guidelines and directives in their respective departments.
+4.2.2	Research and Development
+According to the World Bank country-wise R&D expenditure report, the global average of R&D expenditure with respect to GDP is 2.63%. In contrast, Pakistan's industrial sector R&D spending is as low as 0.2% of the GDP. This distrust of the industry in academia's research and development abilities needs handholding, especially in the preferential adoption of high-tech products/services researched and developed indigenously.
+I.	R&D Projects in AI and Allied Technologies
+a.	While acting as the hub for research and development, the CoE-AI shall organize a special grant for supporting R&D projects using AI and allied technologies in academia and the private sector.
+b.	Such projects shall be attributed to solving socio-economic, civic, and user behavioral issues and opportunities with preference to the identified priority sectors in this policy.
+c.	At least 400 projects shall be enabled through fiscal and logistical support of up to PKR 1 million per project or any other agreed amount on the prescribed criterion.
+d.	The purpose of such funding shall solely be to offer essential support to the level of prototyping and take it to the level that it becomes commercially viable for raising investments.
+II.	Research & Thesis Support in AI
+a.		Like applied R&D support, the COE-AI shall also make provisions for research and thesis, leading to potentially new concepts and models in AI and allied technologies.
+b.	The CoE-AI shall provide fiscal/logistical/data support for up to PKR 200,000 or any other agreed amount per research for effective research and thesis, leading to publications of regional/international journals, whitepapers, and case studies for new R&D projects.
+c.	At least 200 such journals/whitepapers and other research materials shall be supported and published.
+III.	Intellectual Property Registration Support
+a.	To improve Pakistan’s global footprint in research & development, the CoE-AI shall facilitate the registration of new patents in AI and allied technologies through fiscal, legal, and technical support.
+b.	The CoE-AI shall aim to facilitate the registration of at least 400 patents in high-tech for academia and the private sector annually.
+4.2.3	Algorithms, Data Science & AI in Basic Education
+I.	Where the policy document emphasizes the fundamental understanding and awareness of personal data protection and AI, it also aims to stimulate an incremental impact of AI on society right from the grassroots. Therefore, the policy has given equal importance to teaching algorithms, data science, and AI in basic STEM education. In this regard, it stipulates that. CoE-AI shall hire a local/international consultant with expertise in high-tech curriculum development to develop a National Curriculum in Algorithms, Data Sciences, AI, and Allied Technologies from the sixth to the twelfth standard.
+ 
+II.	The Consultant shall develop the National Curriculum based on best practices within six (6) months, along with its adoption strategy, and present the working draft for further consultation to CoE-AI.
+III.	CoE-AI, in consultation with the Ministry of Federal Education and Professional Training, shall organize a working committee comprising STEM education experts from the industry and abroad, the local educational boards for middle/high schools, and the association of schools for reviewing the National High-Tech Curriculum Draft and its adoption strategy and propose their recommendations on it within three months of its first presentation.
+IV.	The draft shall then be finalized and translated into local languages before its adoption and made available to relevant institutions within six (6) months of draft finalization.
+4.2.4	Skill Development of Marginalized Women & PWDs
+Women make up 49% of the total population in Pakistan and possess equal rights for access to learning and earning opportunities in any field and walk of life. This is the case with Persons with Disabilities (PWDs). With high-speed broadband access nationwide and sufficient learning avenues, the cultural and religious barriers can easily be mitigated without complaints.
+Owing to the preferential approach of the Government of Pakistan in Digital Pakistan's drive towards a digital economy, the following interventions are necessary for the marginalized sections of society.
+I.	As part of the National High-Impact Skill Development Program, the CoE-AI shall organize an offshoot of the same, aiming to engage marginalized women and PWDs through special coursework and means of imparting education.
+II.	The program shall be executed through institutions such as Bait-ul-Maal, Ehsaas Program, and other institutions with access to marginalized sections of women and PWDs.
+III.	The program shall also be proliferated using the DigiSkills.pk platform for maximum inclusivity nationwide. Furthermore, a special quota for marginalized women and PWDs shall be ensured in each cohort.
+IV.	CoE-AI shall closely monitor and evaluate the program against set targets via periodic studies for impact assessment and make necessary provisions to ensure all access to all sustainably.
+4.3	3rd Pillar: Building Progressive & Trusted Environment
+4.3.1	Regulating to Accelerate Socio-Economic Adoption
+Human rights, data privacy, values, and responsible use of AI-based technologies is the trending issue worldwide. International governments are seriously addressing these issues through legal and regulatory instruments, devising frameworks accordingly. Such legal and regulatory frameworks are needed to ensure safe and secure data-sharing mechanisms formulated considering best international practices.
+I.	An AI Regulatory Directorate (ARD) shall be constituted under the National Commission for Personal Data Protection (NCPDP), invoking function (i) of 33.2 from the PDPA Act that calls for monitoring of technological developments and commercial practices. It may affect personal protection data and promote measures and undertaking research for innovation in personal data protection.
+II.	The key areas of responsibility for the proposed AI Regulatory Directorate (ARD) under the National Commission for Personal Data Protection (NCPDP) will be to augment the development of AI-based initiatives through need-based assessment of regulating different functions automated using AI and the type of data being created and processed for defined purposes. This will be achieved through implementing the policy directives and other needs as prescribed through regulatory best practices in consultation with stakeholders from time to time. In addition, unique algorithms and programs would be regulated through a sandbox approach, for which the
+ 
+Directorate will organize an agile regulatory mechanism to support the overall objectives of NCPDP. It will also assist NCPDP in defining different regulatory functions concerning digital trust at the data creation and processing level.
+III.	The ARD will oversee the operations automated by AI, the potential role of AI agents undertaking roles of the data controller and data processor that may affect the rules and regulations under the PDPA Act. In addition, it will provide advisory services to regulate data in use in line with the scope of NCPDP.
+IV.	The ARD will provide regulatory support regarding AI policy issues like using AI-based doctors’ assistants in hospitals, indirect AI policy issues like intellectual property laws, and relevant AI policy issues like education, urban planning, and welfare policies, among other things.
+V.	The ARD will provide regulatory support for direct AI policy issues like using AI-based doctors’ assistants in hospitals, indirect AI policy issues like intellectual property laws, and relevant AI policy issues like education, urban planning, and welfare policies, among other things. Undoubtedly, some of these technologies can make life simpler, but they also have significant drawbacks. Sometimes these issues arise because of AI applications’ flaws, such as when AI systems develop discriminating prejudices. As illustrated by the growing privacy danger posed by pattern recognition applications, concerns might occur when AI performs its job much too well. Some AI implementations are morally dubious, possibly harmful (e.g., autonomous kill choices by machines), or pose more significant systemic issues (e.g., labor displacement through AI, impingement of existing ethical, legal, and social paradigms). As a result, national attempts to build AI policy should be coordinated and backed by a regulatory framework to prevent the hazards associated with AI’s widespread use.
+VI.	Design policies in close interaction with the other stakeholders to promote a vibrant research and entrepreneurship ecosystem for innovative AI applications that naturally align with our national interest.
+VII.	Develop strategies for attracting our top AI talent from all over the world back to the country, easy yet well-regulated data access to facilitate innovation, and policies to encourage the integration of locally developed AI solutions.
+VIII.	ARD should develop guidelines for data sharing that encourage entities with data to share it and clarify the best practices for doing so. In addition, the guidelines should spell out the obligations of the data receiver. For government entities, these guidelines can be elevated to mandatory policies.
+IX.	Develop regulation policies and standards for data-sharing among countries and lead multilateral diplomatic efforts to arrange such agreements.
+X.	Encourage local businesses to embrace new AI solutions and provide them with a platform for technical support and some incentives and regulations. Moreover, it should catalyze the creation of new businesses based on AI technology through start-up funds and incubation centers.
+XI.	Formulate policies to develop and maintain highly resilient cutting-edge computing, storage, and connectivity infrastructure.
+XII.	Participate in international efforts to bring standardization in all aspects of AI, e.g., data formats, network and systems architecture, data, application integration protocols, requirements on test cases, and services.
+XIII.	Develop a data-sharing framework and use AI algorithms consistent with social, cultural, and religious norms and international guidelines.
+XIV.	A governance mechanism that will facilitate fairness, data privacy, ethical values control, and algorithmic accountability will be implemented to support reliability in AI studies.
+ 
+XV.	Scientific research and awareness of the effects and risks of AI technologies and systems on the socio-economic structure will be increased.
+XVI.	If any AI-generated decision results in an unwarranted outcome, there should be a mechanism to ascertain the cause.
+XVII.	Definition criteria should be set on the responsibilities shared between individual users, organizations deploying the robots, and the organizations manufacturing them.
+XVIII.	People should have the right to access, manage and control the data they produce and feed it into AI systems for analysis.
+XIX.	The AI systems should be developed in alignment with the ideals of human dignity, rights, and cultural norms.
+To achieve the following goals, ARD will work closely with other domain regulators to gain a better understanding of the consequences of AI in different domains and to ensure compliance with their rules. As a result, the progress achieved in this area because of this effort will promote economic growth per human development needs while safeguarding fundamental human rights. Furthermore, ARD will hire a think tank of technocrats and industry experts to develop strategies for AI integration in government and industry and train the necessary resources. In addition, ARD will construct non-disclosure agreements for data collection and access to new applications across various areas. It will also closely monitor its activities to ensure that data standards and access policies are followed.
+4.3.2	Generative AI
+Generative AI is often used to generate text, images, or other types of media that resemble human creations. Generative AI has many potential applications, including art, music, literature, and journalism. However, it also raises important ethical and societal questions, particularly around issues such as data privacy, ownership of content, and the potential for misuse. The proposed ARD, along with CoE-AI, shall address the opportunities and challenges of generative AI in the following ways:
+
+I.	Ensuring Ethical Use: Generative AI has the potential to create convincing fake content such as text, images, and videos. Therefore, ARD shall provide regulatory guidelines to address the possible spread of disinformation, data privacy breaches, or fake news.
+II.	The CoE-AI shall put particular emphasis on indigenous research innovation with respect to Generative AI and, in this regard, engage with the OpenAI platform and allocate a special quota for startups/R&D institutions/companies working in this space.
+III.	The CoE-AI shall collaborate with the Higher Education Commission and Ministry of Science and Technology to establish best practices regarding using generative AI in academia using large language models.
+IV.	Necessary recommendations shall be made to ARD by CoE-AI for changes in curriculum and ethical use-related matters for transparent and sustainable use of emerging technologies leading to necessary amendments in curriculum and evaluation methods during exams that address the educational risks associated with generative AI and making its best use in the education.
+V.	The CoE-AI shall undertake initiatives in developing applied research potential at the national level to accelerate the socio-economic adoption of generative AI or similar technologies in the future and support the startup ecosystem.
+4.3.3	Sandboxing for AI Deployment
+Sandboxes provide several benefits to technology developers, including checking and displaying innovative technology in a real-world setting with actual people. Developers and regulators may communicate
+ 
+directly, creating a more coherent and cooperative sector. When a new technology obtains market adoption, successive trial-and-error testing in a controlled setting mitigates the risks and unexpected effects, such as undetected security holes. A secondary purpose of the sandbox is for regulators to have a better understanding of the product or service. This enables regulators to create policies and laws that accommodate, oversee, and govern sectoral innovation inside and outside the sandbox. The most appropriate framework for real-world rules outside the sandbox can be determined by legislation evaluated in the sandbox. In addition, the jurisdiction would become more appealing to technology developers and investors if legislation were updated and regulatory ambiguity was removed. The following interventions are proposed:
+I.	At least 20 enterprises should be beneficiaries of the regulatory sandbox by 2025 to bring an agile and inclusive legal harmonization process through testing and discussion on ethical and legal scenarios.
+II.	At least 50 municipalities across the country will actively use AI-based technologies within the scope of smart city applications by 2030 to encourage the participation of these municipalities in AI-enabled applications.
+4.3.4	Supporting International Collaboration
+International collaboration in AI-based research and innovative solutions will complement AI proliferation efforts in Pakistan. The advancement and expertise developed countries enjoy in AI and related technologies are still a long-term aspiration for Pakistan; however, it can benefit from that by collaborating with international experts and institutions in AI and allied technologies. Moreover, this will help us upgrade our technological infrastructure according to international standards. The proposed intervention for fostering international collaboration is:
+I. At least five project calls may be launched in AI by 2025, prioritizing the participation of international collaboration. This will provide Pakistan’s academia and industry with fresh perspectives on a new way of working and help them inculcate knowledge about the latest developments in the AI field at the international level.
+4.4	4th Pillar: Transformation & Evolution
+4.4.1	Role of National IT Boards in Transformation
+The National Information Technology Board (NITB) and provincial IT boards can play a leading role in data digitization and standardization in different sectors and industries. Thus, they have a crucial role in AI proliferation and its success. Standardized data is fuel to any AI-based technology, especially Machine Learning/Deep Learning-based technologies trained on the datasets. This makes it a priority task for the IT boards to manage the standardization and accessibility of data. The following interventions are suggested:
+I.	IT boards should design and provide roadmaps for the transformations in various sectors and industries based on their awareness and readiness for AI adoption. These roadmaps should start circulating in the respective sectors by 2023 so that the structural and competency transformation towards effective AI adoption in various sectors, especially public institutions, can be expedited.
+II.	IT boards should become facilitators in designing and providing specialized training courses and certifications to prepare trained and skilled human capital with skills tailored to sectoral requirements. These training programs may be initiated as early as 2023 to accelerate compliance with AI adoption needs and requirements and prepare a skilled workforce to bear the torch of AI adoption and help Pakistan move forward.
+III.	AI maturity model and project management guidelines may be implemented in at least 50 institutions and organizations across the board by 2025 to ensure auditing and accountability standards per international best practices implemented for AI-supported platforms.
+ 
+4.4.2	Industrial Transformation
+Industries are turning any country’s economic wheels, and their optimization help contributes substantially to GDP. AI and allied technologies can augment industries’ capacity building by introducing State-of-the- art technologies such as IoTs and enhancing their efficiency and productivity. IoTs streamline assembly lines of automotive industries, assist in asset management in manufacturing plants, improve machine efficiency, and reduce downtime through predictive maintenance. Inventory management is another major area where IoTs help streamlines the whole process, thus reducing wastage and shortages in supply and demand mechanisms. The induction of IoT-based technologies will be productive in terms of quality control which is done by collecting data through thermal and video sensors throughout the stages of the product cycle. Smart meters powered by IoTs can monitor and optimize the consumption of electricity, water, and other fuels and help establish sustainable usage of valuable energy resources.
+I.	As an intervention, the Federation of Pakistan Chamber of Commerce and Industry (FPCCI) shall promulgate awareness campaigns to enable local industries to embrace AI and allied technologies through seminars, workshops, and training courses. This will assist in expediting AI proliferation in industries and improve industry stakeholders’ awareness of IoT-based technologies.
+II.	Data standardization is the key to the success of AI adoption in any capacity. It will provide the raw material in the form of standardized data sets that will be used to train the AI and allied technologies such as Machine Learning and Deep Learning. Especially in the healthcare sector, sharing standardized data will ensure the enablement of the preventive healthcare system in Pakistan, which has been adopted worldwide. National Information Technology Board (NITB) and provincial boards are the key organizations that have an essential role in ensuring data standardization and providing accessibility, for the smooth proliferation of AI and related technologies, to various sectors and industries of Pakistan.
+4.4.3	Public/Private Sector Evolution
+COE-AI and ARD need to work in synchronization for a relatively smooth process of AI adoption in the public and private sectors. They will ensure technical, computational, regulatory, and financial assistance as and when required. Furthermore, the National Artificial Intelligence Fund (NAIF), with help from the private sector and international bodies, will fuel the research and innovative endeavors for successfully integrating AI and associated technologies into Pakistan’s institutional and industrial fabric. These collaborative investments will bear fruit in commercializing various products produced by the COE-AI- enabled AI ecosystem.
+
+5	Policy Implementation & Review
+Global best practices for policies and strategies solicit the need for an implementation organization that will not only steer but also helps organize day-to-day operations in line with the directions and timelines stipulated in the policy document.
+This would require a holistic approach through inclusivity of stakeholders at all times and transparency of actions always undertaken with firm monitoring and evaluation. A review and implementation organization shall be orchestrated under the given framework to achieve this.
+5.1	Steering/Management Committee
+I.	The steering committee will comprise government, academia, industry, and civil society members with equal representation of each stakeholder.
+II.	The Secretary of IT & Telecom will convene the committee, and in his absence, Member IT may be the committee's acting chair.
+III.	It will analyze and direct the progress and performance undertaken by different working groups, the policy implementation cell, and the organizations resulting from policy interventions.
+ 
+IV.	The Steering/Management Committee, being the apex body and custodian of the policy, will provide guidelines for new and existing initiatives to the National AI Fund in line with the stipulations of this policy.
+5.2	Working Groups
+I.	Four working groups will represent the four policy drivers, with at least one representation from all stakeholders.
+II.	It will work in collaboration with international organizations and academia working in similar policy-making roles to keep the AI Policy updated and based on international best practices.
+III.	It will provide recommendations on adopting international regulation standards to the steering committee.
+IV.	These working groups will also assist in the research areas where policy measures are needed to propagate the industries, identify the obstacles, and address them accordingly.
+V.	Their responsibility will involve monitoring and evaluating their domains and presenting recommendations to the steering committee.
+VI.	To monitor and evaluate the operations of various organizations and obtain their input, they will liaise with institutions such as NAIF and CoE-AI.
+VII.	They will communicate their recommendations to the steering committee.
+5.3	Policy Implementation Cell
+I.	The Policy Implementation Cell will oversee day-to-day operations conducted to implement policy guidelines.
+II.	They will provide operational support to the working groups and management committee for the smooth running of implementation processes.
+III.	It will work closely with the working groups and the steering committee to monitor the progress of policy implementation and provide ensuing recommendations on a monthly basis for streamlined policy implementation.
+IV.	The policy Implementation Cell will be working under the purview of MoITT, reporting to Member IT.
+5.4	Review Procedure & Timeline
+I.	The Ministry of IT & Telecom may organize a comprehensive policy review every three years; however, the Steering Committee may review the progress/implementation of policy directives every six months.
+II.	Working groups shall meet every three (3) months to suggest recommendations to the steering committee in meeting the targets.
+III.	Policy Implementation Cell shall perform day-to-day operations working under PSDP or attributed through the provision of AI funds with immediate effect upon the promulgation of the policy.
+IV.	The Steering/Management committee will hold biannual meetings to work on the assigned tasks and assess the progress reported by working groups and Policy Implementation Cell.
+V.	Appropriate stipends will be provided to the working groups and the steering/management committee to ensure effective functioning.
+VI.	Monitoring and evaluation may involve multiple third-party organizations to evaluate the performance of programs/projects throughout their lifecycle. Contracts to such organizations will be awarded on an annual basis.
+ 
+6	Definitions
+Triple Helix Partnership
+The Triple-Helix model implies the development of a trilateral network of organizational links between the university, government, and industry in which the university (and similar research and educational institutions) should be regarded as the primary source of knowledge and from which it is being spread. The government should provide some strategic guidelines for developing a sectorial and a regional economy by implementing several direct and indirect economic measures and ensuring financing sources for R&D activities. Government should also be responsible for launching R&D programs of special importance for the country, particularly when their high financial standards cannot be met without the government’s financial help. The role of the firms should be to concentrate their resources on the commercial part of R&D activities.
+Small and Medium-Sized Enterprises (SME)
+It is a convenient term for segmenting businesses and other organizations between the “small office home office” size and the larger enterprise.
+Sustainable Development Goals (SDG)
+These 17 interlinked global goals are designed to be a ‘blueprint for achieving a better and more sustainable future for all.’
+Common Operating Environment (COE)
+A COE specifies a standard data collection and processing mechanism within a given IT architecture of an organization and promotes interoperability and cross-platform capabilities among different platforms/services.
+Key Performance Indicator (KPI)
+It is a quantifiable measure of performance over time for a specific objective. KPIs provide targets for teams to shoot for, milestones to gauge progress, and insights that help people across the organization make better decisions.
+Startups
+Startups are "innovative, high-growth potential, scalable and technology-based new businesses, which require a unique set of skills and resources to achieve commercialization and sustainable growth."
+
+7	Acronyms
+
+ACRONYM	ABBREVIATION
+AI	Artificial Intelligence
+ARD	AI Regulatory Directorate
+NAIF	National Artificial Intelligence Fund
+MoITT	Ministry of Information Technology and Telecom
+NADRA	National Database and Registration Authority
+COE-AI	National Centers for Research, Innovation, Entrepreneurship, and Artificial Intelligence
+NDA	National Data Authority
+NCPDP	National Commission for Personal Data Protection
+ 
+PDPA	Pakistan Data Protection Authority
+NTC	National Telecom Corporation
+NITB	National Information Technology Board
+R&D	Research and Development
+SDGs	Sustainable Development Goals (UN)
+FPCCI	Federation of Pakistan Chamber of Commerce and Industry
+CoE	Center of Excellence
+PoC	Proof of Concept
+IoTs	Internet of Things
+ 
+8	Annex I – Sectoral Survey Regarding AI Adoption, Challenges and Opportunities in Pakistan
+8.1	Sectoral identification
+Sectoral identification is essential to strategizing AI proliferation in Pakistan. These areas can socio- economically benefit the most from AI adoption and progress by engraining AI technology in its operations. The stakeholders in Pakistan are those areas of society with significant potential for AI adoption and where this technology can lead to substantial progress. The classification of sectors has been done based on the following criteria, as shown in the figure below.
+
+Figure 1: Criteria for the identification of sectors in society in relevance to AI adoption The criteria have led to the identification of the following societal areas:
+1.	Agriculture: AI can revolutionize the agricultural sector by introducing process automation, enhanced
+traceability, and analyzing large volumes of data available through satellites and weather predictions. By 2026, agriculture-based AI technology is expected to reach the $2.5 billion mark. Agriculture has a GDP contribution of 20% in Pakistan, a significant portion of our revenue. Therefore, using the latest technologies and innovative methods will decrease costs and improve the quality of yields.
+2.	Healthcare: The healthcare sector can benefit from AI-based innovations in diagnostics, prevention of outbreaks, research and development (R&D) in pharmaceuticals, self-monitoring tools, personalized healthcare, and precision medicine. AI-based technologies have revolutionized preventive medicine as they assist in streamlining patient histories, data standardization, and sharing mechanisms. In addition, AI can support attracting the private sector in Pakistan, which only spends 1.4% of the country’s GDP in this sector.
+3.	Manufacturing: AI and allied technologies such as robotics can revolutionize the manufacturing industry through automation and enhanced efficiency of operations and safety at workplaces such as factories. Pakistan can vastly benefit from AI while developing consumer goods specific to the local market requirements.
+4.	Retail & Commerce: The retail and commerce industry is reaping the fruits of using AI and allied technologies with expected AI-based value addition by 2035, touching a whopping figure of $2.23 trillion. AI and associated technologies can streamline inventory and supply chain management systems, reducing wastage and optimizing and enhancing the efficacy of the entire value chain. In Pakistan, AI-based technologies can significantly change retail and commerce, a rapidly emerging area.
+5.	IT Industry: The IT industry is the highest growing sector in the country and is also considered to be at the forefront of the AI revolution worldwide. The IT sector uses Machine Learning and Deep Learning to re-engineer processes and systems for streamlining business operations and helping them
+ 
+leverage new revenue streams and market growth. In addition, AI can supplement the IT industry by making its systems more efficient, courtesy of predictive analytics and Big Data Analytics. According to statistics, 48% of businesses use Machine Learning, data analytics, and other AI tools. IT exports are rapidly growing in Pakistan and have significant potential. Equipping local IT companies with AI infrastructure and skilled human capital can help them leverage new and diverse opportunities in the global marketspace.
+6.	Financial Sector: AI can improve customer experience in the financial sector with enhanced investment opportunity identification. Chatbots provide a smooth and excellent customer service experience to clients. Moreover, AI-based technologies and algorithms curb and mitigate fraudulent financial activities and augment data safety. AI can improve tax compliance and administration by improving efficiency through automation and AI-based algorithms.
+7.	Academia: AI can assist in teaching and skills development methods. At the global level, AI adoption leaders have ensured that AI-based curricula become integral to educational institutions to prepare future generations. Academia and the industry need to collaborate and cooperate, especially in R&D and HR-related initiatives that can assist in the proliferation of AI-based technologies and inculcate innovative and entrepreneurial thinking in our youth while nurturing a culture that will expedite AI adoption in various sectors and industries in Pakistan.
+8.	Government Sector: Public and government services can benefit from AI-based technologies and become more efficient and productive. For example, automation and chatbots improve the efficiency and quality of services provided to the public. Similarly, AI can help make complex economic decisions to enhance the productivity of various sectors and industries through accurate predictions.
+9.	Defense Sector: The defense sector of any country showcases the strength of the country’s sovereignty and its ability to defend itself against aggressors. Therefore, every government spends a substantial part of its GDP to enhance its defense capabilities and tries to inculcate the latest technologies to strengthen its prowess. AI has brought revolutionary improvements in various defense sub-sectors, particularly in intelligent surveillance systems, automatic drones, geographic target detection, autonomous path tracking in missiles, autofocus in tanks and guns, target detection and recognition, and enhanced night vision. Unfortunately, Pakistan has faced the worst kind of terrorism for many years. It has caused us irreversible damage with the loss of precious lives of innocent civilians and our armed forces personnel, structural damages, and loss of investors. AI and allied technologies can provide invaluable services in effectively combating terrorism and achieving defense targets.
+8.2	Survey Statistics
+To assess the state of AI in Pakistan, the Ministry of IT & Telecom organized a sectorial survey to register the evidence nationwide. Error! Reference source not found. here summarizes the contribution of the participating organizations in the survey. While Error! Reference source not found. further describes the state of AI in key areas in each identified sector. It also reflects on the key findings under the umbrella of survey results.
+ 
+Table 1: Stakeholder organizations contribution in the survey
+
+ 
+ 
+Table 2: Society challenges reflected by the survey results.
+S. NO	Attributes	Description	Evidence (as per 2022)
+
+1.	
+AI Readiness	
+•	At the global level, the AI adoption rate is 56% across all geographies, while developing markets registered a 21% increase [5].	
+•	According to a State of AI Report, Pakistan ranks 117 out of 172 countries and has an index score of 34.03 [6] in terms of AI readiness at a global scale.
+
+
+2.	
+
+AI- Education	•	By 2025, 97 million jobs will be opened in AI-based domains such as machine learning specialists, process automation specialists, big data specialists, etc. 39% of the companies aim to reskill and develop their workforce in AI-based technologies [7].
+•	There has been an increase in CS Ph.D. graduates in the US with specialization in AI/ML and Robotics/Vision categories by 72% and
+51%, respectively, between 2010 and 2020 [5].	•	There are approximately 600,000 people employed in the IT sector with working skills in AI- based technologies.
+•	25,000 students graduate each year from IT-based programs who are trained in AI and associated technologies as well [8].
+•	47 universities and colleges in Pakistan offer BS AI, while 9 universities offer MS AI.
+•	HEC offers 70 international Ph.D. admission in IT, CS, Software Engineering, Data Sciences, and AI [9].
+
+3.	
+Research and Development	•	The number of AI patents filed in 2021 is 77% which is 30 times more than in 2015 worldwide.
+•	AI-based publications around the world amounted to 334,497 in 2021[5].	
+•	Pakistani IPO office is not designated/authorized to file IT/AI-based patents. Therefore, most AI-based patents must be filed from abroad.
+•	Between 2016 and 2020, there were 2600 AI-based publications credited to Pakistan [10].
+
+4.	
+Investment	•	More than 40% of large organizations are planning to invest in AI technology, according to a survey for 2020.
+•	In the US alone, AI startups received over $20 billion in funds, while corporate investment in AI has touched the $94 billion mark [5].	
+•	Pakistani Tech-based startups using AI-based technologies received $278 million in funding in 2021 [11].
+
+
+5.	
+AI Governance/ Regulations	
+
+•	25 countries across the globe have passed 55 AI-related bills; by 2021, 18 of those bills have been passed into law [5].	Following legislative measures have been taken considering Digitization and technological advancement in Pakistan:
+•	Personal Data Protection Act
+•	Digital Pakistan Policy
+•	Pakistan Cloud Policy
+•	Pakistan IT Policy
+ 
+8.3	Market Challenges
+The evidence furnished above simplifies the identification of challenges leading to pragmatic market support and only necessary interventions. These challenges are:
+3.2.1.	G1 – Awareness and Adaptation Challenges
+I.	It is becoming increasingly important that society is aware of the potential of AI in solving routine matters. This requires an awareness campaign towards controlling and sharing data, basic skills education, and high-impact skilling at all levels of the community for sustainable growth. Nations dominating the AI and allied technologies arena have instituted well-defined Human Capital development and evolution mechanisms to prepare the future generation for AI adoption in various sectors through sizable public/private investments and to retain the talent locally. Moreover, international universities have inculcated AI-based curricula in their primary, high- school, undergraduate, and post-graduate programs to ensure that AI is adopted in a structured manner offering a comprehensive development plan for its role in different phases of life and work.
+II.	In Pakistan, enabling AI and allied technologies is challenging without having a basic level of awareness about the technology at the user level. It should be complemented with skilled human resources, having a broader understanding of how and where AI should be applied and the best practices in this technology for its effective and responsible use. The major hurdle in preparing AI- trained human capital is the access to data needed to train them in various domains of AI-based technologies. Hence, data is the underlying artefact for putting skilled human capital to work and making them experiment with using AI-based models in a controlled yet agile environment.
+III.	AI adoption would disrupt how work will be done in public and private sectors and various industries, directly affecting the country’s socio-economic fabric. People working in traditional ways and not skilled in AI-based technologies are at risk of losing their jobs if not pivoted timely. This issue must be addressed on a priority basis, which can only be done through awareness and upskilling. Customized learning programs, workshops, and courses can assist such individuals in surviving this transition and becoming an integral part of digitally transformed workplaces.
+IV.	According to the surveys, at a sectoral scale, half of the respondents are well versed with AI and related technologies, while the other half possess working knowledge. To teach an AI-based curriculum, the survey findings point to including short courses and 6-12 month-long boot camps/diplomas urgently. Furthermore, bachelor’s/master’s level programs and Ph.D. degrees in AI are also worth considering.
+V.	The significant adaptation challenges towards AI proliferation include digitization of information, digital access, literacy, and digital inclusion by design. Heaps of data are available in the public and private sectors, either difficult to access or not available appropriately (such as in hard copies). In many cases, it has been observed that data digitalization and basic process automation in a confined environment are considered sufficient due to a lack of awareness. Alternatively, Cloud- based solutions using AI for data/process orchestration, management, and analytics offered as SaaS provides greater access. However, with limited knowledge, such services are never done justice in terms of their utilization. Moreover, in several cases, local SMEs and enterprises are not using AI and allied technologies effectively, leading to demand-side paralysis. For instance, digitizing healthcare-related data is essential in getting patients’ history accessible to the doctors as well as various diagnostic and R&D. Unfortunately, the healthcare sector is digitized at a fundamental level with limited or zero technological transformation and the standardization of data, which is a significant hurdle in enabling AI-based advancement in the healthcare sector.
+VI.	Digital literacy is another challenge as people are to be educated about data digitization and accessibility and how to adopt safe data-sharing mechanisms. Moreover, it needs to be organized
+ 
+to allow equal opportunity for children, women from remote areas, and disabled persons to benefit from the AI proliferation efforts and meet future challenges.
+3.2.2.	G2 – Data Standardization and Accessibility
+I.	Globally, leaders in AI proliferation have made data standardization and accessibility their top priority. For example, China used the vast datasets available from the provinces to train AI and allied technologies, especially in the healthcare sector. As a result, it took the burden from the hospitals and medical practitioners. Estonia is another shining example of data standardization and accessibility that enabled the small European country to lead in AI adoption.
+II.	Organizations obtain data from several resources. If this data from disparate sources is not brought to a common operating environment, it will create significant problems in its processing for different purposes and uses. Therefore, Pakistan’s primary issue is to digitize and organize the massive datasets available in various inaccessible forms and make them available in a standardized form to make them more relevant for data analytics and other data processing mechanisms. This is only achievable through sustainable developmental hubs and associated collaborations in different sectors.
+III.	Data standardization has been done in the financial sector according to international standards to retain a competitive edge. Most companies in the IT industry have also ensured standardization and accessibility. However, as learned through the survey, other sectors such as manufacturing, agriculture, retail & commerce, and healthcare lag significantly in this domain. Significant efforts are required to develop and augment an ecosystem that catalyzes the country’s adoption of AI and allied technologies. Moreover, the lack of accessibility to data hinders AI-based R&D, predictive analytics, and various other AI-based technologies from producing valuable outputs. It adversely affects advancement in research & development and AI proliferation. The survey results report:
+a.	The lack of accessibility of data has been pointed out by 86% of the stakeholders, which is a prerequisite to AI adoption in any sector.
+b.	50% of the stakeholders shared their concerns about data not being standardized.
+c.	71% of respondents consider poor data collection practices a crippling factor for successful AI adoption.
+d.	44% of the stakeholders recommend following leaders in AI adoption, such as the UK, Estonia, and China, for data standardization mechanisms.
+3.2.3.	G3 – Computational Infrastructure Situation and Needs
+I.	Developed countries and the countries which have made significant progress in AI proliferation have ensured the availability of computational equipment and facilities to the stakeholders and institutions to train the human capital and streamline the modernization of processes to ensemble a sustainable AI outfit. However, such efforts need resources these countries have ensured and made available to the relevant stakeholders.
+II.	Limited computational resources are a shared obstacle by various sectors of Pakistan. The need for computational facilities is emphasized for providing robust and secure access to infrastructure for complex R&D and high-performing systems. Furthermore, these computational facilities are essential for any initiative to train human resources in AI and allied technologies. Their availability under one roof is necessary to streamline the training and learning process.
+III.	Similarly, in many cases, the computational resources are not used optimally. Therefore, a national/provincial data repository of all the public sector data can be made available to a broader audience via a secure/controlled channel. There is also a strong need for training on high- performance computing technologies so that indigenous customized solutions can meet local computational requirements within the country.
+ 
+IV.	57% of stakeholders have registered concerns regarding the limited availability of computational resources as a barrier to achieving a trained workforce in AI and allied technologies.
+V.	To augment applied research and provide robust and secure access to infrastructure for complex R&D, computational facilities are considered vital by 55% of stakeholders.
+3.2.4.	G4 – Ethical Challenges
+I.	Safe and secure data sharing and ethical adoption of AI and allied technologies are primary concerns for every stakeholder, national or international. At a global level, various countries that have adopted AI formulated guidelines and principles for the ethical use of AI and related technologies and established a regulatory framework to streamline safe and secure data-sharing mechanisms. Regulatory challenges must be addressed to establish an environment of trust. Moreover, it is the users’ fundamental right that their data be safe and that their privacy is always upheld. Therefore, an effective regulatory system that may steer AI adoption, related initiatives, and data-sharing mechanisms is needed.
+II.	Most stakeholders voted various risks associated with AI adoption medium to high, including malicious intent, data pollution, Data model theft, fairness, precision deterioration, invasion of privacy, etc.
+ 
+9	References
+[1]	B. Gates, “The Age of AI has begun,” gatesnotes.com. https://www.gatesnotes.com/The-Age-of-AI- Has-Begun (accessed Apr. 03, 2023).
+[2]	“Pakistan	Population	(2022)	-	Worldometer.”	https://www.worldometers.info/world- population/pakistan-population/ (accessed Jun. 14, 2022).
+[3]	“Ministry	of	Federal	Education	and	Professional	Training.” http://mofept.gov.pk/ProjectDetail/NjQ4ZTg2NjItOWM2NC00Y2IxLTkzMDgtMjU2OTFhMjA4NzNh (accessed Jun. 13, 2022).
+[4]	“I	have	the	power	to	change	my	world,”	United	Nations	Population	Fund. https://www.unfpa.org/annual-report-2017 (accessed Jun. 14, 2022).
+[5]	“AI	Index	2022,”	Stanford	Institute	for	Human-Centered	Artificial	Intelligence. https://hai.stanford.edu/research/ai-index-2022 (accessed Oct. 19, 2022).
+[6]	“Government	AI	Readiness	Index	2022,”	Oxford	Insights. https://www.oxfordinsights.com/government-ai-readiness-index-2022 (accessed Mar. 30, 2023).
+[7]	“65	Artificial	Intelligence	Statistics	for	2021	and	Beyond,”	Semrush	Blog. https://www.semrush.com/blog/artificial-intelligence-stats (accessed Aug. 12, 2022).
+[8]	“How Pakistan Ranks | Tech Destination Pakistan.” https://app.techdestination.com/how_pak_ranks
+(accessed Oct. 19, 2022).
+[9]	“Advanced Skills Development Through International Scholarships GOALS.” https://www.hec.gov.pk/english/scholarshipsgrants/ASDIS/Pages/Goals.aspx (accessed Oct. 19, 2022).
+[10]	“Global AI publications by country 2020, Pakistan.” https://www.statista.com/statistics/939627/ai- publications-worldwide-by-country/ (accessed Oct. 19, 2022).
+[11]	“2021: A Banner Year For Pakistani Tech Startup Investments.” https://www.southasiainvestor.com/2021/10/2021-banner-year-for-pakistani-tech.html (accessed Oct. 19, 2022).
+[12]	
